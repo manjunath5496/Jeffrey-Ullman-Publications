@@ -40,4 +40,23 @@ Operating Systems</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Jeffrey-Ullman-Publications/blob/master/jef(21).pdf" style="text-decoration:none;">A Simplified Universal Relation Assumption and Its Properties</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Jeffrey-Ullman-Publications/blob/master/jef(22).pdf" style="text-decoration:none;">Information Integration Using Logical Views</a></li> 
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Jeffrey-Ullman-Publications/blob/master/jef(23).pdf" style="text-decoration:none;">The Theory of Joins in Relational Data Bases</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Jeffrey-Ullman-Publications/blob/master/jef(24).pdf" style="text-decoration:none;">Finding Interesting Associations without Support Pruning</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Jeffrey-Ullman-Publications/blob/master/jef(25).pdf" style="text-decoration:none;"> Universality of Data Retrieval Languages</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Jeffrey-Ullman-Publications/blob/master/jef(26).pdf" style="text-decoration:none;">Implementing data cubes efficiently</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Jeffrey-Ullman-Publications/blob/master/jef(27).pdf" style="text-decoration:none;">Monotone Data Flow Analysis Frameworks</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Jeffrey-Ullman-Publications/blob/master/jef(28).pdf" style="text-decoration:none;">Scalable Techniques for Mining Causal Structures</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Jeffrey-Ullman-Publications/blob/master/jef(29).pdf" style="text-decoration:none;">Querying Semistructured Heterogeneous Information</a></li> 
+
+
+
+
+
  </ul>
